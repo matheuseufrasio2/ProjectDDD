@@ -1,11 +1,9 @@
-﻿using ProjectDDD.Domain.Interfaces;
+﻿using ProjectDDD.Domain.Interfaces.Repositories;
 using ProjectDDD.Infra.Data.Context;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ProjectDDD.Infra.Data.Repositories
 {
